@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.inter {
+    font-family: 'Inter', sans-serif;
+}
+
+
+/* @apply active:opacity-30 duration-150 transition disabled:opacity-30 disabled:cursor-not-allowed bg-green-custom text-white font-bold py-2 px-4 rounded w-full; */
